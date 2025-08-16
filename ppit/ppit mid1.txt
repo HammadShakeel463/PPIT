@@ -1,0 +1,200 @@
+Culture at google
+• And remember... don't be evil, and if you see something that you think isn't right - speak up! -Code of conduct.
+• Workplace Cultures: Competitive, goals-driven emiroment, Strickly controlled hierarchies, team oriented workplaces, organizations that encouraged creativity and enterpreneurial behavior
+• In general, employees satisfied with companies work culture were almast 35% less likely to search for new opportunities than their dissatistied peers. 50% individuals kane due to poor workplace culture
+• Leadership that championed company's value, focused on employee engagement and invested in talent developrent experienced revenue growth of 2.6 times
+• Democracy on the web works, You ean make money without doing evil.
+• Forbes rankings were awarded based on employee
+surveys, company benefits and additinonal metrics such as leadership, corporate values and employee trust.
+• Intellectual humility (admiting to be wrong), strong measure of contiousness (ownership) and courage in employees
+• All staff "Thank God It's Friday" meeting for new developments at google.
+• Cultural issues such as unconscious bias and hostile workplace environment for women and underrepresented minorities such as Blacks and Latinos.
+10 things we know to be true (Google):
+1 Focus on user + all else will follow.
+2 It's best to do onething really, really well.
+3 Fast is better than slow.
+4 Democracy on web works
+5 You don't need to be at desk to need an answer. (communicate to get answer)
+6 You can make money without doing evil.
+7 There's always more info out there.
+8 Need for info crosses all borders.
+9 You can be serious without suit
+10 Great ain't good chough
+"Wisdom of crowd: Taking info from people like Google
+
+
+O = Openness
+C= Conscientiousness
+E= Extrovertness.
+A = Agrecabliness
+N = Neurotic
+
+Google looks for these (C & A )
+
+
+Google has cafeterias to encourage discussion. 
+Provide services like car wash, ete to allow emps to perform at highest level
+Google matto: Make info accessible
+Q: Why mission statement is Imp?  attracts + retains emps.
+At Google, people hire those who are better than them
+Does not believe in managers, ppl manage themselves.
+Google just delegates tasks to tame. Teams manage themselves. Full autonomy.
+Google culture ruined because of weakeness: sexual discrimination allgations, sexual harassment, ppl doing internal activism b/c of "don't be evil" Grongle Code of Conduct
+
+
+
+
+
+
+
+
+
+			Organization
+Companies only deal with recognized legal entities
+1. Soletrader (Sole traders All benefits go to him; all liabilities also on him).
+2. Patnership
+3. Coporative 
+4. limited company
+
+Organization 
+1. Commercial (Profitable buisness)
+2. Non-Commercial/NGO's/government based organization (Non-profitelle)
+
+When cooporative takes a loan, the weight is on stakeholders/partrer. But private Limited company
+is treated as an entity
+
+
+The constitution of a limited Compaup
+- Memorandum of association
+1. Name of company
+2. Name of country
+3. The objects of the company (type)
+4. A Liability clause
+- Declaration of association
+- Table A
+Non -Commercial Bodies
+• Non-profiting
+• Salt working as volunteers or nominal pay
+• Charity or Government runs it
+
+Partnership
+For sole proprietership + partnership, SBP.
+Partherships lumped into private compary category
+• Multiple people. Liabilities and profits shared
+• group of people carrying on a business
+• intenton to make profits
+• business not a limited company
+• laws sees this as a partnership.
+
+Monopoly: One company rules all
+Oligopoly: Few companies dominate/cortrol market.
+Bankruptey happens when you fail to repay loan.
+
+Cooperative
+companies with revenue exceeding a set threshold; this threshold is set by govt.
+Non-profit. No owner. Whoever makes it. appoints board of governors.
+Diff docs for diff types of companies because diff government compliance and rules + regulations.
+To make companies public, you have to enlist it with SECP. SECP allows only if you good
+Corporations may be public or private
+• A business whose profit is a huge ransom amount
+• the shares of these organization are huge
+• Atleast 5 shareholders
+• Each shareholder has equal rights regardless of their involvement or investment
+• Owned and controlled by its members instead of investor
+• Formed to provide service to its members rather than a return on investment
+• Limited distribution of profits to members/shareholders
+• Requires continuous cooperative education programs for members.
+
+Limited Companies (LLC)
+• Campany has cooperate legal identity
+• Ownership divided into large number of shares,
+• The debts and other legal liabilities are not obligated owners to pay it.
+Limited companies registered with SEC
+
+
+• To make company, you have to go to SECP and sign M.D.A between stakeholders
+• Owners appoint board of directors who then appoint CEO, COO, CFO etc.
+• If a sole trader /partnership undergoes bankruptcy owners is responsible + have to bear loss. Their assets seized.
+• In case of LLC company, company is liable. Owners remain safe. Company assets seized. Company is an entity in itself
+• SECP= Security Exchange of Paklstan (Responsible for setting up companies.)
+
+1. public Limited: Owned by a government body
+2. private Limited: Owned be private body
+
+
+Company :  product based(design product of their own), Service based (serve client)
+1. Product based require creative, innovative people and have higher pay.
+2. Service based have repetitive work
+
+HR policy determined by company's goals / objectives.
+Mid career person decides whether to continue or not based on $ + technical challenges.
+People at different personality needed for a team to thrive.
+You should learn to work with different minded people because this is life Embrace divereity
+Startups want talented people, but later they avoid them because they don't want anyone to a challenge their opinions.
+Ability to learn > Still because anyone can learn skill in few weeks
+Google hires people from diverse backgrounds. Not just CS/IT
+
+
+MoA = Memurandum of Association - compliances, regulations (division of shares, ownership declarations, company structure)
+AoA= Article of Association- (how shares will be divided in future)
+Annual, public meeting between board of directors.
+Telematring -> Remote monitoring
+In USA, you can't bring healthcare product into market until approved by FDA (Federal Drug Authoriby)
+Pak has PCIRS.
+Whenever selling shares, shareholders are obliged to first offer shares to partner(s).
+Escrew services: Services to resolve disputes b/w 2 parties. Escrew service in software based on source code.
+A buys From B. C is escrewservice. A pays 50% advance, C ensures that if B is unable to deliver, C will pay money, to A to ensure A does not sustain loss.
+
+FMCG (Fast Moving Consumer Goods) is oligarchy of Unilever and PNG.
+
+   2 types of startups
+1) Viable (Market demand, operational Feasibliby, scalability)
+2) Innovative (Looking to do something never do before)
+
+MVP= Minimum Viable Product. Customer defines whatie minimum viable, not you.
+Early adapters: Early users. Mart imp for produch -based startup's success
+
+Define customer (persona). Most imp phase. First phase
+Agile is also better than Waterfall beacuse it incorporates a customers. Build product through customer,
+
+MOU - Lists common objectives, duration of contract, budgeting, and focal persons from both sides.
+MOU may be b/w orgs or org + person. No legal action if one side backs off
+NDA= Non disclacure agreement
+
+
+
+
+GPTW - Learn how to build a high-trust workplace culture, quantify your employee experience and improve employee engagement.
+• A study found that there was a strong relation between employee experience and the financial perfomance at companies
+• Trust, pride and camaraderie
+• Fosterin the spirit of individual empowerment, its focus on innovation, and adoption of best human practices.
+• Focus longterm over Short-term, populist measures
+• Establishing a culture Listening ; AsK Vijay.
+• Leadership should understand what really mattered to their people
+• Recognition and rewards; Creating personalized experiences and recognition in the moment
+• Diversity and Employee Networks, Benetits; commute to work, free food and work life flexibility, caregiver leaves (paid), flexible workload
+• Infrastruckure; open-plan workspace, Employee Experience, Employees as Brand Advocates.
+
+
+
+
+
+
+
+
+Managing Oneself
+• What are my strengths? Feedback Analysis, Room for improvement, intellectual arrogance/lack of manners; Unproductivity and Result.
+• Haw do I perform? Am I a reader or listener, How do I learn either by writing reading or talking, Am I a
+leader, follower or individual 
+• What are my values? Work-life balance, Autonany, Integrity, Innovation, Growth and Service.
+• Where do I belong? Knowing the answers of above three questions
+What should I connibate? This is followed by What the does the situation requires? Given my strengths, my way of performing, and my value systems, how can I make the greatest contribution to what is need to be done? What results have to be achieved to make a difference? Moreover responsibility for relationships are also included.
+
+
+
+		NDA + MOU
+• NDA may be one sided (employment) or 2 sided (multiple people working together on a research /startup. • They all agree not to give away any secrets).
+• No compete clause = Can't join competitor() in next. x years after leaving
+• NDA must be well defined, to avoid loopholes. to avoid problems like one below:
+You develap algo at Careem. How can Careem prevent you from going to competitor and develp same alge
+

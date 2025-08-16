@@ -1,0 +1,26 @@
+Q2. On what ground Mr. Murthy go to the court against the acquisition of Breach of Agreement?
+
+Ans. In the document "iGate And The CEO: A Breach Of Agreement," it is mentioned that Mr. Murthy filed a lawsuit against iGATE, accusing them of breach of agreement and defamation. He contested his termination and claimed that iGATE unjustifiably terminated his contract "for cause," which allowed them to withhold his vested shares, severance payments, and retirement benefits.
+
+Reference line from the document:
+"In return, Murthy contested his termination and filed a lawsuit accusing iGATE of breach of agreement and defamation. Murthy maintained that iGATE unjustifiably terminated his contract 'for cause,' which allowed iGATE to withdraw from its contractual obligations to Murthy and withhold his vested shares, severance payments, and retirement benefits."
+
+
+Qno3.
+
+A.
+Ans. 
+SFs (SlowFastians) - Safeguarding their interests:
+
+1. Retention Strategies: SFs can implement various retention strategies to address the challenge of retaining human resources. This can include providing competitive compensation and benefits packages, offering career growth opportunities, creating a positive work environment, and implementing employee recognition and reward programs. These measures can help retain skilled UI/UX developers and other team members.
+2. Skill Set Diversity: SFs can focus on introducing diversity in their skill set by hiring UI/UX designers with different backgrounds, experiences, and perspectives. This can bring fresh ideas and creativity to their projects, enhancing the overall quality of their work. Additionally, promoting a culture of continuous learning and professional development can encourage UI/UX designers to expand their skill set and stay updated with industry trends.
+3. Collaboration with Freelancers: SFs can continue collaborating with freelancers, early career starters, and newbies to supplement their team and handle the high number of projects from MK. By leveraging the expertise of freelancers, SFs can scale their team size as needed while maintaining flexibility in resource allocation. Proper onboarding and communication processes should be in place to ensure seamless collaboration and maintain quality standards.
+
+MK Private - Safeguarding their interests:
+1. Quality Assurance Measures: MK Private can establish stringent quality assurance measures to ensure that the UI/UX designs and prototypes meet their standards. This can include conducting regular reviews and evaluations of the work delivered by SFs, providing specific feedback on areas of improvement, and setting clear expectations regarding the quality of the UX part. Regular communication and feedback loops can help address any quality concerns promptly.
+2. Performance Incentives: MK Private can consider implementing performance incentives for SFs based on the quality of the work delivered. This can motivate SFs to prioritize and enhance the UX part of the designs, resulting in improved quality outcomes. By rewarding SFs for meeting or exceeding quality standards, MK Private can encourage a culture of excellence and attract top talent in the UI/UX field.
+3. Continuous Communication and Feedback: MK Private should maintain open lines of communication with SFs regarding any quality issues or concerns. Providing timely and constructive feedback to SFs can help them understand the specific areas where improvements are needed. Regular meetings, progress updates, and a collaborative approach to problem-solving can foster a strong working relationship between MK Private and SFs, leading to improved overall quality and customer satisfaction.
+
+
+B. 
+
